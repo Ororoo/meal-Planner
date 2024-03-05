@@ -5,7 +5,7 @@ and a specific meal plan is generated and displayed. The app aims to make meal p
 It is a web application app designed using Flask and still under development.
 
 Requirements:
-# from flask import Flask
-# import pymysql.cursors
-# import pymysql 
-# import mysql.connector
+**# from flask import Flask
+**# import pymysql.cursors
+**# import pymysql 
+**# import mysql.connector
